@@ -1,0 +1,8 @@
+odrv0.axis0.trap_traj.config.vel_limit
+odrv0.axis0.motor.config.current_lim
+odrv0.axis0.controller.config.vel_limit
+odrv0.config.dc_max_negative_current
+odrv0.axis0.motor.config.torque_constant
+odrv0.axis0.motor.config.pole_pairs
+odrv0.config.enable_brake_resistor
+odrv0.config.brake_resistance
